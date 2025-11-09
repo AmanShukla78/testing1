@@ -1,0 +1,3 @@
+Launch browser successfully!
+Load browser successfully
+User is redirected to Dashboard page

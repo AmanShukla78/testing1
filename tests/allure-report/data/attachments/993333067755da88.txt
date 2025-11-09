@@ -1,0 +1,2 @@
+https://demo.guru99.com/insurance/v1/header.php
+Error “Quotation ID is required” is displayed

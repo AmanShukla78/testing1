@@ -1,0 +1,3 @@
+Launch browser successfully!
+Load browser successfully
+Confirmation message or redirection to login page is displayed.

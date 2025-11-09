@@ -1,0 +1,4 @@
+Launch browser successfully!
+Load browser successfully
+You have saved this quotation!
+A confirmation/quotation number is displayed

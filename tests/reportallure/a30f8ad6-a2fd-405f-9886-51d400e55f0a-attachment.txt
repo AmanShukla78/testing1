@@ -1,0 +1,6 @@
+Request quote page is loaded
+Retrieve quote page is loaded
+Profile page is loaded
+Edit page is loaded
+Home page is loaded
+Correct respective page is loaded.
